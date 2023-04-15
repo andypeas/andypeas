@@ -21,7 +21,7 @@
 > ## 📊 Estatísticas do GitHub
 <br>
 <div align="center">
-  <a href="https://github.com/andypeas">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andypeas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Status do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypeas&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas"/>
 </div>
