@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> <a href="https://github.com/andypeas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=8E42F7&center=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a> </h1>
+  <h1> <a href="https://github.com/andypeas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=8E42F7&center=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Welcome+to+my+GitHub+page!" alt="Bem-vindo ao meu GitHub!" /></a> </h1>
   <br>
   <a href="https://www.linkedin.com/in/anderson-assunção" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a> 
   <a href="https://instagram.com/andy_peas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
