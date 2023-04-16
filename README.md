@@ -26,3 +26,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypeas&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas"/>
 </div>
 <br>
+
+<!--- Link do perfil: https://github.com/andypeas -->
