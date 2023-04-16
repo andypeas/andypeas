@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá, seja bem-vindo ao meu perfil! 😸 </h1>
+  <h1> Bem-vindo ao meu GitHub! 😸 </h1>
   <br>
   <a href="https://www.linkedin.com/in/anderson-assunção" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   <a href="https://instagram.com/andy_peas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
