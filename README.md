@@ -7,7 +7,7 @@
 <br>
 
 > ## 💬 Apresentação
-<p align="justify"> Olá, mundo! Me chamo Anderson, sou de Pernambuco e estou cursando superior em Análise e Desenvolvimento de Sistemas. Sou Técnico em Informática e trabalho na área desde 2017, atuando principalmente como Suporte de TI, desempenhando atividades relacionadas à manutenção de computadores, instalação de rede, helpdesk, administração de redes e gestão de tecnologia da informação. Atualmente estou começando a me aventurar na área de desenvolvimento. </p>
+<p align="justify"> Olá, mundo! 👋 Me chamo Anderson, sou de Pernambuco e estou cursando superior em Análise e Desenvolvimento de Sistemas. Sou Técnico em Informática e trabalho na área desde 2017, atuando principalmente como Suporte de TI, desempenhando atividades relacionadas à manutenção de computadores, instalação de rede, helpdesk, administração de redes e gestão de tecnologia da informação. Atualmente estou começando a me aventurar na área de desenvolvimento. 😺 </p>
 <br>
 
 > ## 💻 Ferramentas e Tecnologias
@@ -27,4 +27,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=andypeas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypeas&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas" height="180em"/>
   </a>
+  <h3> Thank you for reading! 😸 </h3> 
 </div>
