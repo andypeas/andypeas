@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/andypeas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=8E42F7&center=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Welcome+to+my+GitHub+page!" alt="Bem-vindo ao meu GitHub!" /></a> 
+  <a href="https://github.com/andypeas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=8E42F7&center=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Welcome+to+my+GitHub+page!" alt="Bem-vindo ao meu GitHub!"/></a> 
 </div>
 
 > ## 💬 Apresentação
@@ -28,7 +28,7 @@
 
 <div align="center">
   <h2> Thank you for reading! 😸 </h2>
-  <a href="https://www.linkedin.com/in/anderson-assunção" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>
-  <a href="https://instagram.com/andy_peas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/andypeas" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-purple?style=for-the-badge" alt="Portfólio"></a> 
+  <a href="https://www.linkedin.com/in/anderson-assunção" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/andy_peas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/andypeas" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-purple?style=for-the-badge" alt="Portfólio"/></a> 
 </div>
