@@ -30,5 +30,5 @@
   <h2> Thank you for reading! 😸 </h2>
   <a href="https://www.linkedin.com/in/anderson-assunção" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>
   <a href="https://instagram.com/andy_peas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <!--- Portfólio -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-purple?style=for-the-badge" alt="Portfólio"></a> 
 </div>
